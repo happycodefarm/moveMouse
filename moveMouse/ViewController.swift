@@ -36,8 +36,5 @@ class ViewController: NSViewController {
         print("Sleeping")
     }
 
-  
-
-
 }
 
